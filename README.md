@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Vivek--Maurya-MCA--First--year-lightgrey)
 
-## Project 1 [Live Link]()
+## Project 1 [Live Link](https://htmlcss-project01.netlify.app/)
 
 
 <br>
